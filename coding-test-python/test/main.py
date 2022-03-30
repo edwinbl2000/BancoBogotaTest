@@ -1,7 +1,6 @@
 # -*- coding: utf-8 -*-
-"""
-MAIN
-"""
+
+
 import json
 import requests
 
